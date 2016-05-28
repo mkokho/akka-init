@@ -16,3 +16,5 @@ libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-http-testkit" % "2.4.4" % "compile, test",
   "org.scalatest" %% "scalatest" % "2.2.6" % "test"
 )
+
+packAutoSettings
